@@ -6,6 +6,8 @@ Nesse Repositório irei disponiblilizar os materiais usados durante meus estudo 
 
 Vou utilizar o material da playlist [Trilha da EstaTiDados](https://www.youtube.com/playlist?list=PLjdDBZW3EmXe6hO2Rt5Q9I5wzRZ7j7K8P).
 
+Além disso, pretendo disponiblilizar no repositório, para cada video aula, um Jupyter Notebook com implementações de exercícios em Python que cubra o tema abordado no vídeo assim como posts no Medium para dos temas mais relevantes.
+
 
 
 
