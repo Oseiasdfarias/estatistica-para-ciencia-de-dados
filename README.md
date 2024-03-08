@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="60px" src="./materiais_uteis/logo_estatistica_data_science.png">
+  <img height="80px" src="./materiais_uteis/logo_estatistica_data_science.png">
 </p>
 
 <p align="center">
