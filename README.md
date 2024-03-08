@@ -1,3 +1,12 @@
+<p align="center">
+  <img height="60px" src="./materiais_uteis/logo_estatistica_data_science.png">
+</p>
+
+<p align="center">
+    <a href="#roadmap">Roadmap</a>
+  • <a href="#techs">Tecnologias</a> 
+</p>
+
 # Estatística para Ciência de Dados
 
 ## Meu material de estudo para Estatística aplicada a ciência de Dados
@@ -8,6 +17,34 @@ Vou utilizar o material da playlist [Trilha da EstaTiDados](https://www.youtube.
 
 Além disso, pretendo disponiblilizar no repositório, para cada video aula, um Jupyter Notebook com implementações de exercícios em Python que cubra o tema abordado no vídeo assim como posts no Medium para dos temas mais relevantes.
 
+---
+
+<h3>Roadmap</h3>
 
 
+<p id="roadmap"> 
+  <ul>
+    <h3>Estatística Descritiva</h3>
+    <p> </p>
+    <em>Jupyters Notebooks</em>
+    <br>
+    <li>📜 <a href="./jup_notebooks/aula1_medidas_de_tendencia_central_estatistica.ipynb">Aula 1 - Medidas de Tendência Central - Estatística</a></li>
+  </ul>
+  <br>
+</p>
+
+---
+
+<h3>Tecnologias</h3>
+
+<p id="roadmap"> 
+  <ul>
+    <li>📜 <a href="">Python</a></li>
+    <li>📜 <a href="">Pandas</a></li>
+    <li>📜 <a href="">NumPy</a></li>
+    <li>📜 <a href="">Matplotlib</a></li>
+    <li>📜 <a href="">Jupyter Notebook</a></li>
+  </ul>
+  <br>
+</p>
 
