@@ -26,9 +26,9 @@ Além disso, pretendo disponiblilizar no repositório, para cada video aula, um 
   <ul>
     <h3>Estatística Descritiva</h3>
     <p> </p>
-    <em>Jupyters Notebooks</em>
+    <em>💻 Jupyters Notebooks</em>
     <br>
-    <li>📜 <a href="./jup_notebooks/aula1_medidas_de_tendencia_central_estatistica.ipynb">Aula 1 - Medidas de Tendência Central - Estatística</a></li>
+    <li>👨🏾‍💻 <a href="./jup_notebooks/aula1_medidas_de_tendencia_central_estatistica.ipynb">Aula 1 - Medidas de Tendência Central - Estatística</a></li>
   </ul>
   <br>
 </p>
@@ -39,11 +39,11 @@ Além disso, pretendo disponiblilizar no repositório, para cada video aula, um 
 
 <p id="roadmap"> 
   <ul>
-    <li>📜 <a href="">Python</a></li>
-    <li>📜 <a href="">Pandas</a></li>
-    <li>📜 <a href="">NumPy</a></li>
-    <li>📜 <a href="">Matplotlib</a></li>
-    <li>📜 <a href="">Jupyter Notebook</a></li>
+    <li> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"> <a href="">Python</a></li>
+    <li><img src=""> <a href="">Pandas</a></li>
+    <li><img src=""> <a href="">NumPy</a></li>
+    <li><img src=""> <a href="">Matplotlib</a></li>
+    <li><img src=""> <a href="">Jupyter Notebook</a></li>
   </ul>
   <br>
 </p>
