@@ -41,12 +41,14 @@ Além disso, pretendo disponiblilizar no repositório, para cada video aula, um 
   <ul>
     <h3>Estatística Descritiva</h3>
     <p> </p>
-    <em>💻 Jupyters Notebooks</em>
+    <em>💻 Jupyters Notebooks e Posts no Medium</em>
     <br>
     <li>👨🏾‍💻 <a href="./jup_notebooks/aula1_medidas_de_tendencia_central_estatistica.ipynb">Aula 1 - Medidas de Tendência Central - Estatística</a></li>
     <li>👨🏾‍💻 <a href="https://oseiasfarias.medium.com/p1-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-a1949514b4ee">Aula 1 - Post no Medium: P1 — Estatística para Ciência de Dados</a></li>
   </ul>
-  <br>
+    <ul>
+    <li>👨🏾‍💻 <a href="./jup_notebooks/aula2_medidas_de_tendencia_central_estatistica.ipynb">Aula 2 - Medidas de Tendência Central - Estatística</a></li>
+  </ul>
 </p>
 
 ---
