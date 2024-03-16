@@ -29,9 +29,6 @@ Vou utilizar o material da playlist [Trilha da EstaTiDados](https://www.youtube.
 Além disso, pretendo disponiblilizar no repositório, para cada video aula, um Jupyter Notebook com implementações de exercícios em Python que cubra o tema abordado no vídeo assim como posts no Medium para dos temas mais relevantes.
 
 
-
-
-
 ---
 
 <h3>Roadmap</h3>
